@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #232323;
+    padding: 40px;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+#inputDiv,
+#outputDiv {
+    text-align: center;
+    width: 50%;
+    min-height: 200px;
+    padding: 15px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    background-color: #baceee;
+    font-size: 20px;
+}
