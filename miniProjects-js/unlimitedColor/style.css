@@ -1,0 +1,13 @@
+button{
+    background-color: transparent;
+}
+button{
+    height: 40px;
+    width: 100px;
+    margin: 2px;
+    border:solid 2px;
+}
+div{
+    height: 500px;
+    width:200px;
+}
